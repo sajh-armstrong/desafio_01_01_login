@@ -12,7 +12,6 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="207dp"
         android:layout_marginBottom="24dp"
-        android:src="@drawable/ic_launcher_background"
         app:layout_constraintBottom_toTopOf="@+id/editText_User"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
